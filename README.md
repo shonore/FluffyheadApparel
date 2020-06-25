@@ -1,3 +1,6 @@
+# FluffyheadApparel
+Website for Fluffyhead Apparel
+
 # react-storefront-starter-app
 
 Starter Next.js app for React Storefront 7+
